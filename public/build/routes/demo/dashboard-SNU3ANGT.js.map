@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../app/routes/demo/dashboard.tsx"],
+  "sourcesContent": ["import { Outlet } from \"@remix-run/react\";\n\nexport default function SCMDashboardRoute() {\n  return (\n    <>\n      <main>\n        <Outlet />\n      </main>\n    </>\n  );\n}\n"],
+  "mappings": ";;;;;;;;;;;AAII;AAFW,SAAR,oBAAqC;AAC1C,SACE,sFACE,6DAAC,UACC,6DAAC,YAAD;AAAA;AAAA;AAAA;AAAA,SAAQ,KADV;AAAA;AAAA;AAAA;AAAA,SAEA,KAHF;AAAA;AAAA;AAAA;AAAA,SAIA;AAEJ;",
+  "names": []
+}
